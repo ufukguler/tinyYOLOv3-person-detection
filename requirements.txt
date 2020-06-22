@@ -1,0 +1,8 @@
+
+tensorflow==1.14.0  
+#tensorflow-gpu==1.14.0
+pillow
+matplotlib
+numpy==1.16.4
+keras==2.0.8
+opencv-python
