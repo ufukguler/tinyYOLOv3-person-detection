@@ -1,5 +1,7 @@
 # tinyYOLOv3-person-detection
 
-## yolo keras implementation
+## running the model
+<img src="https://raw.githubusercontent.com/ufukguler/tinyYOLOv3-person-detection/master/yolo_family.jpg" width="500">
 
-![mAP](https://raw.githubusercontent.com/ufukguler/tinyYOLOv3-person-detection/master/chart.jpeg?token=ADU6HBTW5PPLFNEUQAAEP4267G6WK)
+## yolo keras implementation
+<img src="https://raw.githubusercontent.com/ufukguler/tinyYOLOv3-person-detection/master/chart.jpeg" width="500">
